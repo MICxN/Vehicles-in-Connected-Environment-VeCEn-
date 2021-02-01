@@ -1,0 +1,1 @@
+command: sumo.exe -c <sumocfg filename> --fcd-output SUMOMobility.xml --fcd-output.geo true --netstate-dump SUMOMobility.net.xml
